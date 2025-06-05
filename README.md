@@ -1,5 +1,5 @@
 ## Howdy! 👋
-  My name is Brady. My pronouns are he/him. I’m currently working on my first few projects in GitHub. As such I’m currently learning just the basics for now and any help would be much appreciated. 
+  My name is Brady. My pronouns are he/him. I’m currently working on my first few projects in GitHub. As such I’m currently learning just the basics for now and any help would be much appreciated. I am paricularly interested in Powershell commands as they are the workhorse for most of my work in device cloning and remote software deployment. 
 <!--
 **BradyM-B/BradyM-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
